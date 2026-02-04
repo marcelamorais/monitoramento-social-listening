@@ -1,0 +1,51 @@
+id,data,marca,canal,tema,texto,sentimento_rotulo
+1007,2026-01-11 07:00:00,ConcorrenteA,TikTok,app,"Amei a experiência com ConcorrenteA, atendimento rápido e super educado! (app, reembolso)",Positivo
+1042,2026-01-11 12:00:00,MarcaX,Twitter/X,pagamento,"Prometeram cashback e não caiu. MarcaX enrolando. (pagamento, cupom)",Negativo
+1022,2026-01-11 17:00:00,ConcorrenteB,Instagram,suporte,"Atendimento horrível da ConcorrenteB, fiquei horas esperando. (suporte, atraso)",Negativo
+1037,2026-01-11 17:00:00,ConcorrenteA,Twitter/X,qualidade,"Onde encontro cupom da ConcorrenteA? (qualidade, cashback)",Neutro
+1039,2026-01-11 19:00:00,MarcaX,Facebook,atendimento,"Alguém sabe se a MarcaX aceita PIX? (atendimento, cashback)",Neutro
+1008,2026-01-12 01:00:00,ConcorrenteA,YouTube,entrega,"Suporte da ConcorrenteA resolveu meu problema em minutos. Top! (entrega, cupom)",Positivo
+1031,2026-01-12 01:00:00,MarcaX,Twitter/X,qualidade,"Comprei e veio com defeito. MarcaX não quer reembolsar! (qualidade, atraso)",Negativo
+1041,2026-01-12 09:00:00,MarcaX,Twitter/X,qualidade,"Vi uma propaganda da MarcaX hoje, parece interessante. (qualidade, reembolso)",Neutro
+1021,2026-01-12 17:00:00,ConcorrenteA,Twitter/X,atendimento,"O app da ConcorrenteA trava toda hora, impossível usar. (atendimento, reembolso)",Negativo
+1020,2026-01-13 07:00:00,ConcorrenteB,ReclameAqui,pagamento,"Preço alto e qualidade ruim. ConcorrenteB piorou muito. (pagamento, cashback)",Negativo
+1033,2026-01-13 21:00:00,MarcaX,Facebook,promoção,"Atendimento horrível da MarcaX, fiquei horas esperando. (promoção, atraso)",Negativo
+1045,2026-01-13 22:00:00,MarcaX,ReclameAqui,entrega,"Vi uma propaganda da MarcaX hoje, parece interessante. (entrega, frete)",Neutro
+1009,2026-01-14 11:00:00,ConcorrenteA,Facebook,pagamento,"O app da ConcorrenteA ficou muito melhor depois da atualização. Parabéns! (pagamento, atraso)",Positivo
+1012,2026-01-14 20:00:00,ConcorrenteA,Instagram,pagamento,"Suporte da ConcorrenteA resolveu meu problema em minutos. Top! (pagamento, PIX)",Positivo
+1038,2026-01-15 01:00:00,MarcaX,YouTube,qualidade,"Estou comparando MarcaX com outras opções por causa do preço. (qualidade, atraso)",Neutro
+1000,2026-01-15 03:00:00,MarcaX,Twitter/X,app,"Suporte da MarcaX resolveu meu problema em minutos. Top! (app, cashback)",Positivo
+1044,2026-01-15 16:00:00,MarcaX,Twitter/X,promoção,"Preço alto e qualidade ruim. MarcaX piorou muito. (promoção, cashback)",Negativo
+1043,2026-01-15 16:00:00,MarcaX,Twitter/X,entrega,"Que decepção com MarcaX: entrega atrasada e ninguém responde. (entrega, frete)",Negativo
+1023,2026-01-15 17:00:00,ConcorrenteA,YouTube,promoção,"Preço alto e qualidade ruim. ConcorrenteA piorou muito. (promoção, atraso)",Negativo
+1018,2026-01-16 00:00:00,ConcorrenteA,Facebook,promoção,"Preço alto e qualidade ruim. ConcorrenteA piorou muito. (promoção, cashback)",Negativo
+1016,2026-01-16 02:00:00,MarcaX,Twitter/X,pagamento,"Amei a experiência com MarcaX, atendimento rápido e super educado! (pagamento, cupom)",Positivo
+1005,2026-01-16 07:00:00,MarcaX,Instagram,suporte,"Promoção incrível da MarcaX, valeu demais o cupom! (suporte, PIX)",Positivo
+1010,2026-01-16 13:00:00,MarcaX,Twitter/X,qualidade,"Suporte da MarcaX resolveu meu problema em minutos. Top! (qualidade, reembolso)",Positivo
+1025,2026-01-16 15:00:00,ConcorrenteA,Facebook,pagamento,"O app da ConcorrenteA trava toda hora, impossível usar. (pagamento, frete)",Negativo
+1035,2026-01-17 00:00:00,ConcorrenteB,Facebook,qualidade,"Onde encontro cupom da ConcorrenteB? (qualidade, garantia)",Neutro
+1029,2026-01-17 06:00:00,ConcorrenteB,YouTube,atendimento,"Atendimento horrível da ConcorrenteB, fiquei horas esperando. (atendimento, atraso)",Negativo
+1015,2026-01-17 07:00:00,ConcorrenteA,Facebook,qualidade,"Qualidade excelente, ConcorrenteA ganhou meu respeito. (qualidade, garantia)",Positivo
+1028,2026-01-18 08:00:00,ConcorrenteB,TikTok,qualidade,"Que decepção com ConcorrenteB: entrega atrasada e ninguém responde. (qualidade, cashback)",Negativo
+1006,2026-01-18 11:00:00,MarcaX,TikTok,entrega,"MarcaX mandou muito bem na entrega, chegou antes do prazo. (entrega, frete)",Positivo
+1046,2026-01-18 11:00:00,MarcaX,Twitter/X,qualidade,"Vi uma propaganda da MarcaX hoje, parece interessante. (qualidade, reembolso)",Neutro
+1001,2026-01-19 09:00:00,ConcorrenteB,Twitter/X,entrega,"ConcorrenteB mandou muito bem na entrega, chegou antes do prazo. (entrega, atraso)",Positivo
+1011,2026-01-20 01:00:00,MarcaX,Twitter/X,suporte,"Amei a experiência com MarcaX, atendimento rápido e super educado! (suporte, PIX)",Positivo
+1014,2026-01-20 05:00:00,ConcorrenteB,Facebook,qualidade,"ConcorrenteB mandou muito bem na entrega, chegou antes do prazo. (qualidade, cashback)",Positivo
+1002,2026-01-21 03:00:00,MarcaX,Twitter/X,qualidade,"Amei a experiência com MarcaX, atendimento rápido e super educado! (qualidade, cashback)",Positivo
+1032,2026-01-21 17:00:00,ConcorrenteB,ReclameAqui,entrega,"Que decepção com ConcorrenteB: entrega atrasada e ninguém responde. (entrega, reembolso)",Negativo
+1048,2026-01-22 17:00:00,MarcaX,ReclameAqui,promoção,"Que decepção com MarcaX: entrega atrasada e ninguém responde. (promoção, cashback)",Negativo
+1019,2026-01-22 20:00:00,MarcaX,Facebook,app,"Atendimento horrível da MarcaX, fiquei horas esperando. (app, garantia)",Negativo
+1004,2026-01-22 22:00:00,ConcorrenteB,ReclameAqui,qualidade,"Suporte da ConcorrenteB resolveu meu problema em minutos. Top! (qualidade, cupom)",Positivo
+1013,2026-01-23 22:00:00,ConcorrenteA,Facebook,entrega,"Suporte da ConcorrenteA resolveu meu problema em minutos. Top! (entrega, atraso)",Positivo
+1003,2026-01-24 05:00:00,MarcaX,YouTube,qualidade,"O app da MarcaX ficou muito melhor depois da atualização. Parabéns! (qualidade, garantia)",Positivo
+1017,2026-01-24 08:00:00,MarcaX,YouTube,pagamento,"Amei a experiência com MarcaX, atendimento rápido e super educado! (pagamento, cashback)",Positivo
+1040,2026-01-25 19:00:00,MarcaX,Twitter/X,qualidade,"Atendimento horrível da MarcaX, fiquei horas esperando. (qualidade, PIX)",Negativo
+1047,2026-01-27 02:00:00,MarcaX,Twitter/X,promoção,"Prometeram cashback e não caiu. MarcaX enrolando. (promoção, PIX)",Negativo
+1030,2026-01-27 14:00:00,MarcaX,Twitter/X,pagamento,"Preço alto e qualidade ruim. MarcaX piorou muito. (pagamento, reembolso)",Negativo
+1026,2026-01-29 01:00:00,MarcaX,ReclameAqui,atendimento,"Preço alto e qualidade ruim. MarcaX piorou muito. (atendimento, garantia)",Negativo
+1024,2026-01-29 06:00:00,MarcaX,Facebook,entrega,"O app da MarcaX trava toda hora, impossível usar. (entrega, garantia)",Negativo
+1036,2026-01-29 13:00:00,ConcorrenteB,Facebook,pagamento,"Quais são os horários de atendimento da ConcorrenteB? (pagamento, cupom)",Neutro
+1027,2026-01-29 20:00:00,ConcorrenteA,YouTube,preço,"Prometeram cashback e não caiu. ConcorrenteA enrolando. (preço, atraso)",Negativo
+1049,2026-01-29 23:00:00,MarcaX,ReclameAqui,pagamento,"O app da MarcaX trava toda hora, impossível usar. (pagamento, frete)",Negativo
+1034,2026-01-30 04:00:00,ConcorrenteB,YouTube,suporte,"Estou comparando ConcorrenteB com outras opções por causa do preço. (suporte, cashback)",Neutro
