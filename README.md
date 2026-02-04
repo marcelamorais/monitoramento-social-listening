@@ -1,11 +1,11 @@
-## 📊 Social Listening & Monitoramento de Marca
+## 📊 Social Listening & Monitoramento de Marca:
 
 Projeto de portfólio focado em Social Listening & Monitoramento, demonstrando como estruturar um pipeline de dados para acompanhar menções à marca, concorrentes e termos do setor, identificar tendências e antecipar possíveis crises.
 O projeto simula um cenário real de monitoramento de reputação digital, utilizando uma base de dados sintética para fins educacionais e demonstrativos.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto:
 
 Demonstrar, de forma prática e explicável, como:
 - Coletar e estruturar dados de menções em diferentes canais digitais.
@@ -16,7 +16,7 @@ Demonstrar, de forma prática e explicável, como:
 
 ---
 
-## 🧠 Conceitos Trabalhados
+## 🧠 Conceitos Trabalhados:
 
 - Social Listening.
 - Monitoramento de Marca.
@@ -26,7 +26,7 @@ Demonstrar, de forma prática e explicável, como:
 - Detecção de picos e alertas de crise.
 - Transformação de dados não estruturados em insights.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
 
 - Python 3.
 - Pandas – manipulação e análise de dados.
@@ -36,7 +36,7 @@ Demonstrar, de forma prática e explicável, como:
 
 ---
 
-## Conclusão
+## Conclusão:
 
 Neste projeto foi demonstrado como estruturar um processo completo de **Social Listening & Monitoramento**, abrangendo desde a ingestão e tratamento de dados até a análise e visualização dos resultados.
 
@@ -51,7 +51,7 @@ O projeto evidencia como o uso estruturado de dados de Social Listening permite 
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autora:
 
 ** Marcela Morais | Analista de Dados | Web Analytics
 📍 Brasil
